@@ -1,3 +1,3 @@
 # kamilrepo
-##Editing file
+##Edting files
 It is a markdown file in this repo.|
